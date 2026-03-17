@@ -1,4 +1,14 @@
 {
+<<<<<<< HEAD
+  "type": "micro",
+  "wake_word": "Yeffrey",
+  "author": "Pablo Santamaria",
+  "model": "file://yeffrey.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+=======
   type micro,
   wake_word Yeffrey,
   author Pablo Santamaria,
@@ -7,5 +17,6 @@
   micro {
     probability_cutoff 0.5,
     sliding_window_average_size 10
+>>>>>>> 5aec942ad96fdc905a7c73e3786ba87e0b0e3f8b
   }
 }
