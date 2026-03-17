@@ -2,7 +2,7 @@
   type micro,
   wake_word Yeffrey,
   author Pablo Santamaria,
-  model .yeffrey.tflite,
+  model yeffrey.tflite,
   version 1,
   micro {
     probability_cutoff 0.5,
