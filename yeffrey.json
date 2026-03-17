@@ -3,7 +3,7 @@
   "wake_word": "yeffrey",
   "author": "Pablo Santamaria",
   "website": "",
-  "model": "https://raw.githubusercontent.com/pasanci/openwakeword/main/yeffrey.tflite",
+  "model": "erroneo.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 2,
   "micro": {
